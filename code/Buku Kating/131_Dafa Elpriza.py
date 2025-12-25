@@ -107,7 +107,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1t684MYLmb7bTKqhWWG8Krervyh8g8ej1",
         ]
         data_list = [
-             {
+              {
                 "nama": "Rendra Eka Prayoga",
                 "nim": "122450122",
                 "umur": "21",
@@ -116,7 +116,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Menyanyi",
                 "sosmed": "@_erendraa",
                 "kesan": "Bang Rendra keliatan orangnya tenang dan berwibawa, cocok banget jadi sosok pemimpin.",
-                "pesan": "Semangat terus bang dalam memimpin dan semoga semua urusannya dimudahkan." 
+                "pesan": "Semangat terus bang dalam memimpin dan semoga semua urusannya dimudahkan." # 1
             },
             {
                 "nama": "Rendra Eka Prayoga",
@@ -127,7 +127,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Menyanyi",
                 "sosmed": "@_erendraa",
                 "kesan": "Bang Rendra keliatan orangnya tenang dan berwibawa, cocok banget jadi sosok pemimpin.",
-                "pesan": "Semangat terus bang dalam memimpin dan semoga semua urusannya dimudahkan." 
+                "pesan": "Semangat terus bang dalam memimpin dan semoga semua urusannya dimudahkan." # 1
             },
             {
                 "nama": "Johannes Krisjon Silitonga",
@@ -138,7 +138,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Baca Buku SQL",
                 "sosmed": "@johanneskrisjnnn",
                 "kesan": "Bang Johannes keliatan orangnya cerdas dan punya pembawaan kalem.",
-                "pesan": "Semoga makin sukses bang dan terus semangat ngejalanin kuliah." 
+                "pesan": "Semoga makin sukses bang dan terus semangat ngejalanin kuliah." # 1
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -149,7 +149,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Cutekahim",
                 "sosmed": "@farahanumafifah",
                 "kesan": "Kak Farahanum keliatan ramah dan berwibawa, sosok yang gampang didekati.",
-                "pesan": "Semoga selalu semangat dan tetap jadi panutan yang baik buat teman-teman." 
+                "pesan": "Semoga selalu semangat dan tetap jadi panutan yang baik buat teman-teman." # 1
             },
             {
                 "nama": "Syadza Puspadari Azhar",
@@ -160,7 +160,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Membaca",
                 "sosmed": "@puspadrr",
                 "kesan": "Kak Syadza keliatan anggun dan pintar, cocok banget dengan perannya sekarang.",
-                "pesan": "Semoga semua aktivitas kuliah dan organisasinya selalu lancar, kak." 
+                "pesan": "Semoga semua aktivitas kuliah dan organisasinya selalu lancar, kak." # 1
             },
             {
                 "nama": "Eksanty Febriana Sugma Islamiaty",
@@ -171,7 +171,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nahan Eeq",
                 "sosmed": "@eksantyfebriana",
                 "kesan": "Kak Eksanty keliatan ceria dan berani, sosok yang energik banget.",
-                "pesan": "Semoga terus semangat kuliahnya dan makin banyak pengalaman berharga." 
+                "pesan": "Semoga terus semangat kuliahnya dan makin banyak pengalaman berharga." # 1
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
@@ -182,7 +182,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nahan Pipis",
                 "sosmed": "@celisabethh_",
                 "kesan": "Kak Elisabeth keliatan tegas tapi tetap ramah, sosok yang bisa diandalkan.",
-                "pesan": "Semoga semua urusan kuliah dan organisasinya berjalan lancar, kak." 
+                "pesan": "Semoga semua urusan kuliah dan organisasinya berjalan lancar, kak." # 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
